@@ -1,0 +1,34 @@
+[
+  {
+    "fullText": "The president of US is Donald Trump",
+    "answer": "Donald Trump"
+  },
+  {
+      "fullText": "The president of Turkey is Recep Tayyip Erdogan",
+    "answer": "Recep Tayyip Erdogan"
+  },
+  {
+    "fullText": "The prime-minister of England is Teresa May",
+    "answer": "Teresa May"
+  },
+  {
+    "fullText": "The president of Germany is Frank Walter Steinmeier",
+    "answer": "Frank Walter Steinmeier"
+  },
+  {
+      "fullText": "The president of France is Emmanuel Macron",
+      "answer": "Emmanuel Macron"
+    },
+    {
+        "fullText": "The president of Canada is Justin Trudeau",
+      "answer": "Justin Trudeau"
+    },
+    {
+      "fullText": "The president of Mexico is Enrique Pena Nieto",
+      "answer": "Enrique Pena Nieto"
+    },
+    {
+      "fullText": "The president of Italy is Sergio Mattarella",
+      "answer": "Sergio Mattarella"
+    }
+]

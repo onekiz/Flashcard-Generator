@@ -1,0 +1,34 @@
+[
+  {
+    "front": "Who is the president of US?",
+    "back": "Donald Trump"
+  },
+  {
+    "front": "Who is the president of Turkey?",
+    "back": "Recep Tayyip Erdogan"
+  },
+  {
+    "front": "Who is the prime-minister of UK?",
+    "back": "Teresa May"
+  },
+  {
+    "front": "Who is the president of Germany?",
+    "back": "Frank Walter Steinmeier"
+  },
+  {
+    "front": "Who is the president of France?",
+    "back": "Emmanuel Macron"
+  },
+  {
+    "front": "Who is the president of Mexico?",
+    "back": "Enrique Pena Nieto"
+  },
+  {
+    "front": "Who is the president of Canada?",
+    "back": "Justin Trudeau"
+  },
+  {
+    "front": "Who is the president of Italy?",
+    "back": "Sergio Mattarella"
+  }
+]
